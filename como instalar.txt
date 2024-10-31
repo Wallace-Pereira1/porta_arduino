@@ -1,0 +1,13 @@
+PLUGAR O ARDUINO EM UM PC
+
+INSTALAR AS BIBLIOTECAS
+
+EXECUTAR O PYTHON
+
+cd C:\Users\USER\Desktop
+
+dir
+
+python ler_serial.py
+
+
